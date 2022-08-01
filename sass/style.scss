@@ -1,6 +1,7 @@
 /*Global*/
 body {
     font-size: 25px;
+    
 }
 
 h1, h5, h4 {
@@ -152,23 +153,6 @@ h5 {
 .social-media {
     text-align: center;      
 }
-    
- /*boxes?
-.test1 {
-  width: 300px;
-  height: 100px;
-  border: 1px solid blue;
-  box-sizing: border-box;
-}
-
-.test2 {
-  width: 300px;
-  height: 100px;
-  padding: 50px;
-  border: 1px solid red;
-  box-sizing: border-box;
-}
-*/
 
 /* For mobile phones: */
 @media (min-width: 768px) and (max-width: 991px) {
@@ -189,7 +173,4 @@ h5 {
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
   
-     .title1, .title2, .title3 {
-        text-align: center;
-    }
 }
